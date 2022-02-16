@@ -1,0 +1,46 @@
+.section {
+  background-image: 'my-portfolio/src/images/backg.png';
+  background: #f3e5f5;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+h3 {
+  text-align: center;
+  font-size: larger;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.form {
+
+  background-color: whitesmoke;
+  margin-left: 15px;
+  margin-right: 5px;
+
+}
+.about-text {
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration:wavy;
+}
+.resume{
+  float: right;
+  margin-top: 20px;
+}
+ .footer {
+  justify-content: center; 
+  margin-left: 600px;
+  
+  flex-direction: row;
+} 
+.title-uni {
+  font-size: 170%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a:hover {
+  background-color: goldenrod;
+}

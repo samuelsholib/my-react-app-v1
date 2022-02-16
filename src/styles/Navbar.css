@@ -1,0 +1,22 @@
+p {
+  background: whitesmoke;
+  
+}
+
+p {
+  color: black;
+  font-size: larger;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: normal;
+}
+
+img {
+  width: 90%;
+  justify-content: center;
+  margin-left: 15px;
+}
+.nav nav-tabs {
+  justify-content: center;
+  color: blue;
+  background-color: antiquewhite;
+}

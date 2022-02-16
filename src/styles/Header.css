@@ -1,0 +1,17 @@
+.header {
+  height: 200px;
+}
+
+.header h1 {
+  margin: 0;
+  padding-top: 75px;
+  text-align: center;
+  color: darkblue;
+  font-size: 3rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.avatar {
+  width: 200px;
+  padding: 20px;
+  border-radius: 50%;
+}
